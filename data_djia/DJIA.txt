@@ -1,0 +1,32 @@
+Symbol,Description,Quandlcode,premium_code
+MMM,3M Company,WIKI/MMM,EOD/MMM
+AXP,American Express Co,WIKI/AXP,EOD/AXP
+AMGN,Amgen Inc,WIKI/AMGN,EOD/AMGN
+AAPL,Apple Inc.,WIKI/AAPL,EOD/AAPL
+BA,Boeing Company,WIKI/BA,EOD/BA
+CAT,Caterpillar Inc.,WIKI/CAT,EOD/CAT
+CVX,Chevron Corp.,WIKI/CVX,EOD/CVX
+CSCO,Cisco Systems,WIKI/CSCO,EOD/CSCO
+KO,The Coca Cola Company,WIKI/KO,EOD/KO
+DIS,The Walt Disney Company,WIKI/DIS,EOD/DIS
+DOW,Dow Chemical,WIKI/DOW,EOD/DOW
+GS,Goldman Sachs Group,WIKI/GS,EOD/GS
+HD,Home Depot,WIKI/HD,EOD/HD
+HON,Honeywell Int'l Inc.,WIKI/HON,EOD/HON
+IBM,International Bus. Machines,WIKI/IBM,EOD/IBM
+INTC,Intel Corp.,WIKI/INTC,EOD/INTC
+JNJ,Johnson & Johnson,WIKI/JNJ,EOD/JNJ
+JPM,JPMorgan Chase & Co.,WIKI/JPM,EOD/JPM
+MCD,McDonald's Corp.,WIKI/MCD,EOD/MCD
+MRK,Merck & Co.,WIKI/MRK,EOD/MRK
+MSFT,Microsoft Corp.,WIKI/MSFT,EOD/MSFT
+NKE,Nike,WIKI/NKE,EOD/NKE
+PG,Procter & Gamble,WIKI/PG,EOD/PG
+CRM,Salesforce.com,WIKI/CRM,EOD/CRM
+TRV,The Travelers Companies Inc.,WIKI/TRV,EOD/TRV
+UNH,United Health Group Inc.,WIKI/UNH,EOD/UNH
+VZ,Verizon Communications,WIKI/VZ,EOD/VZ
+V,Visa Inc.,WIKI/V,EOD/V
+WBA,Walgreens Boots Alliance,WIKI/WBA,EOD/WBA
+WMT,Wal-Mart Stores,WIKI/WMT,EOD/WMT
+USDOLLAR,Federal funds effective rate,FRED/DTB3,
